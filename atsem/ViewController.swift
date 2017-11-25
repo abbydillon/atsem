@@ -54,7 +54,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
     //MARK: Actions
     
     @IBAction func saveButton(_ sender: Any) {
-        displayNameLabel.text = "Hello,  \(nameTextField.text!)"
+        displayNameLabel.text = nameTextField.text!
         displayAddressLabel.text = churchAddressTextField.text!
         nameTextField.resignFirstResponder()
         churchAddressTextField.resignFirstResponder()
