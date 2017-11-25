@@ -1,3 +1,3 @@
 # atsem
 
-pushing existing code for atsem iOS app project
+a geofencing app that allows a student to automatically track their seminary attendance
